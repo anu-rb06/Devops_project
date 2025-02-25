@@ -7,7 +7,9 @@ public class Demo {
 	}
 	
 	public void m1() {
-		System.out.println("From b1 branch");// from y1 branch for stashing demo
+
+		System.out.println("From b1 branch");// stash demo x1 branch + // from y1 branch for stashing demo
+
 	}
 
 }

@@ -1,13 +1,16 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
-  <distributionManagement>
-       <repository>
-         <url> https://github.com/anu-rb06/Devops_project.git </url>
-       </repository>
-   </distributionManagement>
+
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.edureka</groupId>
   <artifactId>Devops_project</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>Developmet Project</name>
   <description>Basic project</description>
+  <distributionManagement>
+    <repository>
+      <id>internal.repo</id>
+      <name> Repository</name>
+      <url>https://github.com/anu-rb06/Devops_project.git/</url>
+    </repository>
+  </distributionManagement>
 </project>

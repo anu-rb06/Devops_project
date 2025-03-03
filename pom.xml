@@ -7,7 +7,7 @@
   <description>Basic project</description>
   <packaging>war</packaging>
 
-  distributionManagement>
+  <distributionManagement>
        <repository>
          <url> https://github.com/anu-rb06/Devops_project.git </url>
        </repository>

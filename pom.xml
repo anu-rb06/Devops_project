@@ -5,4 +5,11 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>Developmet Project</name>
   <description>Basic project</description>
+  <packaging>war</packaging>
+
+  distributionManagement>
+       <repository>
+         <url> https://github.com/anu-rb06/Devops_project.git </url>
+       </repository>
+   </distributionManagement>
 </project>

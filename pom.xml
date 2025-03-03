@@ -6,11 +6,6 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>Developmet Project</name>
   <description>Basic project</description>
-  <distributionManagement>
-    <repository>
-      <id>internal.repo</id>
-      <name> Repository</name>
-      <url>https://github.com/anu-rb06/Devops_project.git/</url>
-    </repository>
-  </distributionManagement>
+  <url>http://maven.apache.org</url>
+  
 </project>
